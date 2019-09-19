@@ -27,7 +27,12 @@ def monopoly_with_third_tier
 	hash = {
 		railroads: {
 			pieces: 4,
-			rent_in_dollars: {}
+			rent_in_dollars: {
+				level1: 1,
+				level2: 2,
+				level3: 3,
+				level4: 4,
+			}
 		},
 	}
 end
