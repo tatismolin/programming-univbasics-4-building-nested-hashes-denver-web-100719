@@ -33,6 +33,7 @@ def monopoly_with_third_tier
 				level3: 3,
 				level4: 4,
 			}
+			names: {}
 		},
 	}
 end
