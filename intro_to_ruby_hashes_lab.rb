@@ -34,7 +34,7 @@ def monopoly_with_third_tier
 				four_pieces_owned: 200,
 			},
 			names: {
-				level10: 10,
+				reading_railroad: {},
 				level20: 20,
 				level30: 30,
 				level40: 40,
